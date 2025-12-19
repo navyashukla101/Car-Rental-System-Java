@@ -13,7 +13,7 @@ A modern Java Swing GUI application for managing car rentals, returns, and inven
 
 ## How to Run
 
-### Option 1: Quick Start (Recommended)
+### Quick Start
 ```bash
 cd src
 javac *.java
